@@ -74,8 +74,8 @@ export const footerLinks = [
   {
     title: "Sobre",
     links: [
-      { title: "Como Funciona", url: "/" },
-      { title: "Relacoes de Negocio", url: "/" },
+      { title: "Como funciona", url: "/" },
+      { title: "Relações de negócio", url: "/" },
     ],
   },
   {
